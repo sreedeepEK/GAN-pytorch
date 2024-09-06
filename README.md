@@ -11,7 +11,7 @@ The trained model is capable of generating anime faces that are visually appeali
 
 
 
-### Overview
+### Overview 
 
 This project uses a Generative Adversarial Network (GAN) to create anime-style face images from random noise. The GAN consists of a generator that learns to create realistic anime faces and a discriminator that distinguishes between real and generated images. By training these two networks together, the generator improves over time, producing high-quality, visually appealing anime faces that resemble those in the training dataset. The project demonstrates the power of GANs in generating new, unique images based on learned patterns, offering insights into both deep learning and image generation techniques.
 
