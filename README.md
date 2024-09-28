@@ -6,7 +6,7 @@ A deep learning approach to generate anime-style face images using Generative Ad
 The trained model is capable of generating anime faces that are visually appealing and diverse. Below are some examples of the generated images:
 
 <p align="center">
-  <img src="https://github.com/ft-sreedeep/GAN-pytorch/blob/main/anime_training.gif" alt="alt text" width="400" />
+  <img src="https://github.com/sreedeepEK/GAN-pytorch/blob/0b4bce13c4438a14620bf158b810b142dfd84009/anime_training.gif" alt="alt text" width="400" />
 </p>
 
 
